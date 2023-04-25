@@ -6,7 +6,7 @@ import tkinter as tk
 import tkinter.ttk as ttk
 
 Aapheresis_category = aphe_category = ['CHDF','PMX-DHP','CART','PE']
-
+# github プッシュ
 Select_DataBase = "\Py_APheresisData.db"
 TITLE_NAME_LABEL="アフェレーシス機材管理"
 
